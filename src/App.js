@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        테스트입니다 . 빌드를 안해도되는건지 아니면 깃으로만 되는건지
+        푸시를 하자마자 바로 빌드가 됨.
+
       </header>
     </div>
   );
